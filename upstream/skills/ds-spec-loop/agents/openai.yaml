@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec Loop"
+  short_description: "Keep specs, code, tests, and docs aligned"
+  default_prompt: "Use $ds-spec-loop to implement this change with one owning decision and keep requirements, code, tests, and current documentation aligned."
